@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "root",
+    "database": "parkoq",
+    "host": "127.0.0.1",
+    "port": 5431,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "root",
+    "database": "parkoq",
+    "host": "127.0.0.1",
+    "port": 5431,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "root",
+    "database": "parkoq",
+    "host": "127.0.0.1",
+    "port": 5431,
+    "dialect": "postgres"
+  }
+}

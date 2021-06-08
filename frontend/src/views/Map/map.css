@@ -1,0 +1,23 @@
+#mapid { height: 100%; width: 100%; }
+.hot-chocolate-icon {
+    background: white;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px black;
+}
+
+.hot-chocolate-icon:after {
+    display: block;
+    width: 30px;
+    height: 30px;
+    content: "☕";
+    font-size: 20px;
+}
+.basemaps-container {
+    
+    position: absolute;
+    z-index: 1000;
+    width: auto;
+    height: auto;
+    padding:5px;
+    background-color: white;
+  }
